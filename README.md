@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">👋 ¡Hola mundo! Soy Keiner Josue 🚀</h1>
 
-<!--
-**Keiner-Josue/Keiner-Josue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Programador en crecimiento | 🎨 Apasionado por la tecnología | 🇨🇴 Desde Colombia para el mundo
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="Coding GIF" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mí
+
+java
+System.out.println("Cree en tu lógica. Cree en tu código. Cree en vos.");
+🔥 Aprendiendo Java y Python paso a paso, error por error.
+
+✨ Explorando desarrollo web, lógica de programación y ciberseguridad.
+
+🎯 Me gusta resolver problemas con creatividad y estilo.
+
+🎧 A veces programo con café, otras veces con corridos, ¡pero siempre con actitud!
+
+🚀 Proyecto Destacado
+📱 RESETECH
+Resetech es una página de reseñas sobre celulares, procesadores y noticias tech.
+Creada con HTML y CSS, y mucha pasión por la tecnología.
+Ideal para los que quieren saber qué comprar o simplemente les gusta el chisme tecnológico. 😏
+
+🛠️ Tecnologías que manejo
+
+
+
+
+
+📊 Mis Stats en GitHub
+
+
+🏅 Logros y metas
+🚧 En construcción... como mi camino de programador 💪
+
+💡 Meta: construir proyectos reales que le sirvan a la gente.
+
+📚 En aprendizaje constante, incluso cuando no entiendo nada al principio 😅
+
+🌍 ¿Dónde encontrarme?
+
+<!-- Cambia este enlace si tienes uno -->
+
+🔁 Contador de Visitas
+
+💬 Frase que me representa
+"Me enorgullece ser el tipo de persona que ve un error, sonríe... y lo resuelve con código." 🧠👨‍💻
+
+🧙‍♂️ Firma Personal
+javascript
+Copiar
+Editar
+        .--.
+     .'_\/_'.
+     '. /\ .'
+       "||"
+       || /\
+    /\ ||//\)
+   (/\\||/)
+______||______
+  Keiner Josue
+<p align="center"> ✨ Gracias por visitar mi perfil. ¡Nos 
