@@ -35,23 +35,10 @@ Ideal para los que quieren saber qué comprar o simplemente les gusta el chisme 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://e7.pngegg.com/pngimages/185/866/png-clipart-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle.png"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swing-A8B9CC?style=for-the-badge&logo=java&logoColor=black"/>
-</p>
-
-📊 Mis Stats en GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeinerJosue&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Estadísticas%20de%20Keiner" alt="GitHub Stats de Keiner" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeinerJosue&theme=tokyonight&hide_border=true" alt="GitHub Streak de Keiner" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeinerJosue&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados por Keiner" />
 </p>
 
 🏅 Logros y metas
