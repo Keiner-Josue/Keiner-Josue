@@ -35,7 +35,7 @@ Ideal para los que quieren saber qué comprar o simplemente les gusta el chisme 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://thumbs.dreamstime.com/b/html-logo-editorial-ilustrativo-sobre-fondo-blanco-eps-descargar-vector-jpeg-banner-208329416.jpg" width="10%" height="10%" />
+  <img src="https://thumbs.dreamstime.com/b/html-logo-editorial-ilustrativo-sobre-fondo-blanco-eps-descargar-vector-jpeg-banner-208329416.jpg" width="6%" height="10%" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swing-A8B9CC?style=for-the-badge&logo=java&logoColor=black"/>
