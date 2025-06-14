@@ -1,11 +1,11 @@
 <h1 align="center">👋 ¡Hola mundo! Soy Keiner Josue 🚀</h1>
 
 <p align="center">
-  💻 Programador en crecimiento | 🎨 Apasionado por la tecnología | 🇨🇴 Desde Colombia para el mundo
+  💻 Programador en crecimiento | 🎨 Apasionado por la tecnología y la atronomia | 🇨🇴 Desde Colombia para el mundo
 </p>
 
 <p align="center">
-  <img src="https://ilkinvaliyev.com/uploads/HNbj1yLc4ZaIpapLYdTUghp4jH7zie6OBC9yQQHP.jpg" width="80%" alt="Coding GIF" />
+  <img src="https://ilkinvaliyev.com/uploads/HNbj1yLc4ZaIpapLYdTUghp4jH7zie6OBC9yQQHP.jpg" width="60%" height="30%" alt="Coding GIF" />
 </p>
 
 ---
