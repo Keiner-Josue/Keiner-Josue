@@ -36,9 +36,8 @@ Ideal para los que quieren saber qué comprar o simplemente les gusta el chisme 
 <p align="center">
   <img src="https://thumbs.dreamstime.com/b/java-logo-editorial-ilustrativo-sobre-fondo-blanco-eps-descargar-vector-jpeg-banner-208329454.jpg" width="6%" height="5%" />
   <img src="https://thumbs.dreamstime.com/b/html-logo-editorial-ilustrativo-sobre-fondo-blanco-eps-descargar-vector-jpeg-banner-208329416.jpg" width="6%" height="5%" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="6%" height="5%" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="6%" height="5%" /> 
-  <img src="https://miro.medium.com/v2/resize:fit:409/1*x53VGsJAqhN85ReUdQLPzA.jpeg" width="6%" height="5%" />
+  <img src="https://static.vecteezy.com/system/resources/previews/001/416/680/non_2x/css3-emblem-blue-shield-and-white-text-vector.jpg" width="6%" height="5%" /> 
+  <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" width="6%" height="5%" /> 
  
 </p>
 
