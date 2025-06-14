@@ -34,11 +34,12 @@ Ideal para los que quieren saber qué comprar o simplemente les gusta el chisme 
 ## 🛠️ Tecnologías que utilizo
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://thumbs.dreamstime.com/b/html-logo-editorial-ilustrativo-sobre-fondo-blanco-eps-descargar-vector-jpeg-banner-208329416.jpg" width="6%" height="2%" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swing-A8B9CC?style=for-the-badge&logo=java&logoColor=black"/>
+  <img src="https://thumbs.dreamstime.com/b/java-logo-editorial-ilustrativo-sobre-fondo-blanco-eps-descargar-vector-jpeg-banner-208329454.jpg" width="6%" height="5%" />
+  <img src="https://thumbs.dreamstime.com/b/html-logo-editorial-ilustrativo-sobre-fondo-blanco-eps-descargar-vector-jpeg-banner-208329416.jpg" width="6%" height="5%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="6%" height="5%" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="6%" height="5%" /> 
+  <img src="https://miro.medium.com/v2/resize:fit:409/1*x53VGsJAqhN85ReUdQLPzA.jpeg" width="6%" height="5%" />
+ 
 </p>
 
 🏅 Logros y metas
